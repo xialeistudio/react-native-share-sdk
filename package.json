@@ -1,6 +1,14 @@
 {
   "name": "react-native-share-sdk",
+  "description": "",
+  "keywords": [
+    "react-native",
+    "share-sdk",
+    "share"
+  ],
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/xialeistudio/react-native-share-sdk.git",
+  "author": "xialeistudio <xialeistudio@gmail.com>"
 }
